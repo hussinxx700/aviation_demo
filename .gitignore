@@ -1,0 +1,17 @@
+
+# Allow everything by default
+!*
+
+# But still ignore typical cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.env
+.venv
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+
