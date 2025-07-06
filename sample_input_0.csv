@@ -1,0 +1,2 @@
+Pilot_Total_Flight_Hours,Pilot_Fatigue_Level,Pilot_Training_Level,Co-Pilot_Total_Flight_Hours,Co-Pilot_Fatigue_Level,Co-Pilot_Training_Level,Aircraft_Model,Aircraft_Age_Years,Days_Since_Last_Maintenance,System_Status,Engine_Cycles,Weather_Condition,Visibility_km,Wind_Speed_knots,Bird_Activity,Season
+6730,5,Basic,14883,1,Intermediate,B737,1,343,Healthy,31881,Fog,3.0,42,Low,Summer
