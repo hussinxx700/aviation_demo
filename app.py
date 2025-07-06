@@ -166,6 +166,6 @@ for i, (_, shap_val, friendly) in enumerate(result["top_features"]):
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("""
 <div class='footer-box'>
-    <strong>Implementation Details:</strong> Ensemble model with SHAP explainability (Accuracy 94.2%).
+    <strong>Note:</strong> This demo is developed as a proof-of-concept for academic or prototype use. It uses synthetic data and is intended for demonstration purposes only.
 </div>
 """, unsafe_allow_html=True)
