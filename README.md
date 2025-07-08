@@ -42,7 +42,7 @@ Each row represents one flight. The dataset is divided into:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/aviation-risk-demo.git
+git clone https://github.com/hussinxx700/aviation_demo.git
 cd aviation-risk-demo
 ```
 
@@ -81,9 +81,4 @@ Select a sample from the sidebar and the system will:
 - Output incident class (Yes/No)
 - Show top 2 contributing factors
 
----
-
-## 📘 License
-
-This project is for academic and demo purposes only.  
-Developed by **Husseini** for Master's thesis support.
+## Live demo: https://aviationdemo.streamlit.app
